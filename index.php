@@ -8,6 +8,6 @@
 </head>
 
 <body>
-    <span>Esta es una archivo de practica. continuacion</span>
+    <span>Esta es una archivo de practica.</span>
 </body>
 </html>
